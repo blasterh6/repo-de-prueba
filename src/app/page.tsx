@@ -7,8 +7,8 @@ export default function Home() {
           <span className="status-dot" />
           EN LINEA
         </div>
-        <h1>Entorno de Producción</h1>
-        <p>Sistema Operativo y Despliegue Final</p>
+        <h1>Entorno de Testing</h1>
+        <p>Sistema de Pruebas y Validación</p>
       </div>
     </main>
   );
